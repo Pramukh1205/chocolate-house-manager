@@ -1,4 +1,4 @@
-# Chocolate House Inventory and Flavor Management
+# Chocolate House Inventory and Flavour Management
 
 ## Description
 A simple application to manage seasonal chocolate flavors, ingredient inventory, and customer suggestions, including allergy concerns.
